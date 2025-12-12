@@ -56,16 +56,6 @@ pip install matplotlib
 2. Run the application
 python main.py
 
-📝 Screenshots (Add after uploading)
-
-You can include:
-
-Main Dashboard
-
-Add Student Form
-
-Data Table View
-
 Grade Distribution Chart
 
 📐 Grade Logic
@@ -76,6 +66,7 @@ Percentage	Grade
 60–69%	B
 50–59%	C
 Below 50%	F
+
 🏆 Project Highlights
 
 Simple and beginner-friendly
@@ -86,11 +77,3 @@ Good project for DBMS, Python, or GUI coursework
 
 Fully local (no internet required)
 
-🤝 Contributing
-
-Pull requests are welcome!
-If you'd like to suggest improvements, feel free to open an issue.
-
-📜 License
-
-This project is licensed under the MIT License
