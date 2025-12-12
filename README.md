@@ -54,7 +54,7 @@ CSV – Data export
 pip install matplotlib
 
 2. Run the application
-python main.py
+student_result_system.py
 
 Grade Distribution Chart
 
